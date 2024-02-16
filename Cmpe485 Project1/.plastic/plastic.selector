@@ -1,0 +1,4 @@
+repository "Cmpe485 Project1@omerfaunal@cloud"
+  path "/"
+    br "/main"
+    co "/main"
